@@ -22,7 +22,7 @@ This project is an API built using **Java, Java Spring, Flyway Migrations, Postg
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
+git clone https://github.com/kenzleyDev/spring-security-jwt-roles.git
 ```
 
 2. Install dependencies with Maven
